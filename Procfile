@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT uber_drinks_2832.wsgi:application
